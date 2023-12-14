@@ -177,7 +177,7 @@ to test it (if it doesn’t work, make sure to open a new command window, becaus
 - I use [luarocks-3.9.2-windows-32.zip](https://luarocks.github.io/luarocks/releases/luarocks-3.3.1-windows-32.zip) (luarocks.exe stand-alone Windows 32-bit binary)
 - i recommend to use 32 version. I have problems with some libraries when try 64 bit.
 -   Open the downloaded zip file and drag the `luarocks-3.9.2-windows-32’ folder inside to  ‘c:\program files\` 
-- Add to PATH `C:\program files\luarocks-3.3.1-windows-32`
+- Add to PATH `C:\program files\luarocks-3.9.2-windows-32`
 - Open pwsh/cmd and type:`luarocks --lua-version 5.1 path`
 you will see something like that
 ```
